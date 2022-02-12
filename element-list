@@ -1,0 +1,4 @@
+com.estore.api.estoreapi
+com.estore.api.estoreapi.controller
+com.estore.api.estoreapi.model
+com.estore.api.estoreapi.persistence
